@@ -24,3 +24,8 @@
    - Services: chứa các nghiệp vụ liên kết với Back End
    - Templates: chứa cấp độ components lớn hơn Page
    - Util (Utilities): chứa thư mục dùng chung của hệ thống
+
+# Nội dung khoá học
+
+   - Dùng `Routes và Route` cho `Page Components`
+   - Dùng thẻ `NavLink` thay cho thẻ `a`
